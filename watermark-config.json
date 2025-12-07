@@ -1,7 +1,8 @@
 {
-  "text": "HELLO",
+  "text": "PRESS AND SMILE",
   "enabled": true,
   "fontSize": 48,
   "textColor": "#FFFFFF",
-  "backgroundColor": "#80000000"
+  "backgroundColor": "#80000000",
+  "logoUrl": "https://pressandsmile.github.io/pressandsmile-config/logo.png"
 }
